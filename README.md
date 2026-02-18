@@ -34,7 +34,7 @@ Team Name
 ### Installation Steps--
 1.**Clone the Repository**:
     ```bash
-git clone [https://github.com/sadhanamaurya3052005/AI-Powered-Career-Counselor-SENSAI.git](https://github.com/sadhanamaurya3052005/AI-Powered-Career-Counselor-SENSAI.git)
+git clone [https://github.com/sadhanamaurya3052005/AI-Powered-Career-Counselor-SENSAI.git]
 cd AI-Powered-Career-Counselor-SENSAI
     ```
 2.**Install Dependencies**:
