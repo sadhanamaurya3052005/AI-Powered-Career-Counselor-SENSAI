@@ -67,4 +67,4 @@ Ye project **MIT License** ke tahat licensed hai.
 * **Sadhana Maurya**
 * **Sneha Singh**
 * **Nigam Chaurasiya**
-* ***Srishti Singh**
+  
